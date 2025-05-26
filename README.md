@@ -12,7 +12,7 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Building+sleek+UIs+&+solid+backends)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=#960511&lines=Full+Stack+Developer;Building+sleek+UIs+&+solid+backends)](https://git.io/typing-svg)
 <br clear="both">
 
 <h3 align="left">🚀 Always learning, always building.</h3>
