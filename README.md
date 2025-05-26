@@ -12,6 +12,7 @@
 
 ###
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 <br clear="both">
 
 <h3 align="left">Full Stack Developer | Building sleek UIs & solid backends  <br><br>🚀 Always learning, always building.</h3>
